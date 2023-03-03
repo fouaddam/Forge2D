@@ -26,9 +26,6 @@ class TiledMapObjectBody extends BodyComponent<MyGame>{
       PolygonShape shape = PolygonShape();
 
       final vertices = [
-        /*Vector2(-size.x / 2, size.y / 2),
-      Vector2(size.x / 2, size.y / 2),
-      Vector2(0, -size.y / 2),*/
         Vector2(0, 0),
         Vector2(tiledObject.width, 0),
         Vector2(tiledObject.width, tiledObject.height),
@@ -64,13 +61,10 @@ class TiledMapObjectBody extends BodyComponent<MyGame>{
 
       body.createFixture(fixtureDef);
 
-      //shape.set(vertices);
+
     }
 
     return body;
   }
-
-
-
 
 }
