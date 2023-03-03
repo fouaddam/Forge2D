@@ -1,0 +1,92 @@
+{"frames": {
+
+"Run__000.png":
+{
+	"frame": {"x":0,"y":0,"w":94,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":94,"h":130},
+	"sourceSize": {"w":94,"h":130}
+},
+"Run__001.png":
+{
+	"frame": {"x":0,"y":130,"w":94,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":94,"h":130},
+	"sourceSize": {"w":94,"h":130}
+},
+"Run__002.png":
+{
+	"frame": {"x":0,"y":260,"w":94,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":94,"h":130},
+	"sourceSize": {"w":94,"h":130}
+},
+"Run__003.png":
+{
+	"frame": {"x":0,"y":390,"w":94,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":94,"h":130},
+	"sourceSize": {"w":94,"h":130}
+},
+"Run__004.png":
+{
+	"frame": {"x":0,"y":520,"w":94,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":94,"h":130},
+	"sourceSize": {"w":94,"h":130}
+},
+"Run__005.png":
+{
+	"frame": {"x":0,"y":650,"w":94,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":94,"h":130},
+	"sourceSize": {"w":94,"h":130}
+},
+"Run__006.png":
+{
+	"frame": {"x":0,"y":780,"w":94,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":94,"h":130},
+	"sourceSize": {"w":94,"h":130}
+},
+"Run__007.png":
+{
+	"frame": {"x":0,"y":910,"w":94,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":94,"h":130},
+	"sourceSize": {"w":94,"h":130}
+},
+"Run__008.png":
+{
+	"frame": {"x":0,"y":1040,"w":94,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":94,"h":130},
+	"sourceSize": {"w":94,"h":130}
+},
+"Run__009.png":
+{
+	"frame": {"x":0,"y":1170,"w":94,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":94,"h":130},
+	"sourceSize": {"w":94,"h":130}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "NinjaJson.png",
+	"format": "RGBA8888",
+	"size": {"w":94,"h":1300},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:4cb5abdbab31b94655e1ea8a675051d3:f7a9c0f9b0c52f2a7bffc9965d3cd661:408ccc5b5f1ba421d1c4eab5b2012283$"
+}
+}
