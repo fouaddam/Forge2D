@@ -35,8 +35,9 @@ class MyGame extends Forge2DGame with HasTappables,HasDraggables,HasKeyboardHand
   MyGame():super(gravity: Vector2(0, 15),zoom: 1);
   SpriteComponent barrel=SpriteComponent();
   AngryPride angryPride=AngryPride(Vector2(200,380),0.5);
-  late PlayerAnimation playerAnimation;
   late PlayerAnimation playerAnimation2;
+  late PlayerAnimation playerAnimation;
+
   late JoystickComponent joystickComponent;
   late  SpriteAnimationComponent ninja;
   late bool bAnimeted=false;
