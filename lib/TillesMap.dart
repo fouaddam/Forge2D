@@ -50,8 +50,7 @@ class TiledMapObjectBody extends BodyComponent<MyGame>{
 
       final List<Vector2> vertices = [];
       for (final polygon in tiledObject.polygon) {
-        //print("DEBUG: POINTS ----->>>>> "+polygon.x.toString()+"   "+polygon.y.toString());
-        //vertices.add(Vector2(polygon.x, polygon.y));
+
         shape.vertices.add(Vector2(polygon.x, polygon.y));
       }
 

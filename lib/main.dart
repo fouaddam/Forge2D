@@ -125,6 +125,7 @@ class MyGame extends Forge2DGame with HasTappables,HasDraggables,HasKeyboardHand
       playerAnimation.girlNinja.flipHorizontally();
        direction=false;
     }
+
     return direction;
   }
 
