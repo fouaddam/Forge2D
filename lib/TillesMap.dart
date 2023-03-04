@@ -43,6 +43,7 @@ class TiledMapObjectBody extends BodyComponent<MyGame>{
       body.createFixture(fixtureDef);
     }
     else if(tiledObject.isPolygon){
+
       ChainShape shape = ChainShape();
 
       final List<Vector2> vertices = [];
@@ -60,7 +61,6 @@ class TiledMapObjectBody extends BodyComponent<MyGame>{
         ..friction = 0.2;
 
       body.createFixture(fixtureDef);
-
 
     }
 
